@@ -1,0 +1,15 @@
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore build and temporary files
+/build/
+/target/
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE files
+.idea/
+*.iml
